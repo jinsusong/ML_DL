@@ -1,2 +1,3 @@
-# ML_DL
-ML/DL Study
+# ML_DL 용어 및 이론 공부
+
+## 딥러닝 용어
