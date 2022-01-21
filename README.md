@@ -24,13 +24,12 @@
 
 1. Accuracy ( 정확도 ) : Accuracy는 실제 데이터에서 예측 데이터가 얼마나 같은지를 판단하는 단순한 지표
 
-한계 :
-이진 분류의 경우, 데이터의 구성에 따라 모델의 성능을 왜곡할 수 있기 때문에 정확도 수치 하나만 가지고 성능을 평가하지 않는다.
+- 한계 : 이진 분류의 경우, 데이터의 구성에 따라 모델의 성능을 왜곡할 수 있기 때문에 정확도 수치 하나만 가지고 성능을 평가하지 않는다.
 정확도는 불균형한 레이블 값 분포에서 분류 모델의 성능을 판단할 경우, 적합한 평가 지표가 아니다.
 Confusion Matrix ( 오차 행렬 ) : 이진 분류에서 예측 오류가 얼마인지와 더불어 어떠한 유형의 예측 오류가 발생하고 있는지를 함께 나타내는 지표
 
-  True/False: 실제와 예측이 일치하는가?
-  Positive/Negative: 뭘로 예측했는가?
+-   True/False: 실제와 예측이 일치하는가?
+-  Positive/Negative: 뭘로 예측했는가?
 
   TN(True Negative, Negative Negative): 실제는 Negative인데, Negative로 예측함.
   FP(False Positive, Negative Positive): 실제는 Negative인데, Positive로 예측함.
