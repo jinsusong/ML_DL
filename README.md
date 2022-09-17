@@ -3,6 +3,7 @@
 1. 미분 : 상수는 0으로 무시
 2. 편미분 : 미분하는 대상을 제외한 나머지는 무시
 3. 합성함수의 미분 : 미분 후 치환한 함수의 미분값을 곱해줌
+4. 참고 : https://www.youtube.com/watch?v=GEdLNvPIbiM&list=PLIMb_GuNnFwdKHPaNP6xzAXSu9SKx4uAZ&index=2
 
 
 ## 딥러닝 용어
